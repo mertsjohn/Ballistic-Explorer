@@ -107,7 +107,7 @@ Numerical trajectory values are retained independently of graphical interpolatio
 
 ### 6. Detailed Downrange Output Tables
 
-Ballistic Explorer produces trajectory information at user-selected range increments.
+Ballistic Pioneer produces trajectory information at user-selected range increments.
 
 Calculated quantities include:
 
@@ -180,7 +180,7 @@ These activities represent ongoing development and numerical verification. They 
 
 ## Software Architecture and Program Size
 
-Ballistic Explorer is implemented in modern Fortran and uses a modular software architecture.
+Ballistic Pioneer is implemented in modern Fortran and uses a modular software architecture.
 
 The current **v3349 source-code inventory** contains:
 
@@ -266,7 +266,7 @@ To use the program:
 
 ## Limitations and Disclaimer
 
-Ballistic Explorer is a numerical modeling and educational analysis program. Calculated trajectories depend upon the supplied inputs, the selected physical models, and the validity of the aerodynamic data.
+Ballistic Pioneer is a numerical modeling and educational analysis program. Calculated trajectories depend upon the supplied inputs, the selected physical models, and the validity of the aerodynamic data.
 
 Vacuum validation provides a means of assessing numerical integration accuracy but does not independently verify the predictive accuracy of the atmospheric drag model against measured projectile trajectories.
 
