@@ -1,4 +1,4 @@
-# Ballistic Explorer™
+# Ballistic Pioneer™
 ### Free External Ballistics Calculator and Trajectory Analysis Software for Windows
 
 **Program version:** v3349  
@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Ballistic Explorer™** is a free Windows-based external ballistics calculator designed for numerical trajectory analysis, ballistic research, and interactive examination of projectile motion.
+**Ballistic Pioneer™** is a free Windows-based external ballistics calculator designed for numerical trajectory analysis, ballistic research, and interactive examination of projectile motion.
 
 The software uses a high-order numerical integration method, G7 aerodynamic drag data, altitude-dependent atmospheric conditions, and gravitational modeling to calculate projectile trajectories.
 
@@ -20,7 +20,7 @@ Unlike basic ballistic calculators that provide only a few numerical outputs, Ba
 
 The program is intended for users interested in external ballistics, long-range shooting calculations, projectile dynamics, computational physics, and numerical methods.
 
-**Ballistic Explorer is available to the public completely free of charge through its stated expiration date. No purchase, subscription, or license key is required.**
+**Ballistic Pioneer is available to the public completely free of charge through its stated expiration date. No purchase, subscription, or license key is required.**
 
 ## Principal Features
 
@@ -55,7 +55,7 @@ The embedded G7 data were prepared using piecewise cubic Hermite interpolation (
 
 ### 3. Atmospheric and Gravitational Modeling
 
-Ballistic Explorer calculates atmospheric properties and gravitational acceleration as the projectile travels along its trajectory.
+Ballistic Pioneer calculates atmospheric properties and gravitational acceleration as the projectile travels along its trajectory.
 
 User inputs include:
 
@@ -71,7 +71,7 @@ Optional calculations include Coriolis acceleration and an empirical spin-drift 
 
 ### 4. Multiple Trajectory Solutions
 
-Ballistic Explorer supports several trajectory calculation modes:
+Ballistic Pioneer supports several trajectory calculation modes:
 
 **Low trajectory:** Calculates the lower firing-angle solution for a specified target distance.
 
@@ -241,7 +241,7 @@ The numerical calculations execute locally on the user's computer. The current r
 
 ## Free Public Distribution
 
-Ballistic Explorer is intended to be distributed free to the general public through GitHub Releases.
+Ballistic Pioneer is intended to be distributed free to the general public through GitHub Releases.
 
 **There is no purchase price, subscription fee, or license-key requirement.**
 
@@ -278,7 +278,7 @@ The software is provided without a guarantee of accuracy or suitability for any 
 
 ## Development and Future Improvements
 
-Ballistic Explorer has undergone extensive iterative development involving numerical-method refinements, GUI improvements, performance optimization, debugging, and regression testing.
+Ballistic Pioneer has undergone extensive iterative development involving numerical-method refinements, GUI improvements, performance optimization, debugging, and regression testing.
 
 Future work may include expanded validation cases, further performance improvements, interface refinements, and additional documentation.
 
@@ -286,6 +286,6 @@ Feedback concerning numerical accuracy, reproducibility, application stability, 
 
 ---
 
-**Ballistic Explorer™ — Free Windows External Ballistics Calculator**
+**Ballistic Pioneer™ — Free Windows External Ballistics Calculator**
 
 *README revision 1.02 | Based on program version v3349 | November 4, 2026*
