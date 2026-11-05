@@ -1,0 +1,155 @@
+BALLISTIC PATHFINDER
+FREE PUBLIC USE LICENSE AGREEMENT
+License Version 1.2
+Effective for releases that expressly include this license
+
+Copyright (c) 2026 Scientific Computing Inc. and respective rights holders.
+All rights reserved.
+
+1. SOFTWARE AND LICENSOR
+
+This Agreement governs use of the Ballistic Pathfinder Windows executable,
+accompanying documentation, and authorized updates (collectively, the
+"Software"). The producer and licensor is Scientific Computing Inc.
+("Licensor"). This Agreement does not license the Fortran source code.
+
+2. FREE LICENSE GRANT
+
+Subject to this Agreement, Licensor grants individuals and organizations
+worldwide a limited, nonexclusive, nontransferable, royalty-free license to
+download, install, and use unmodified official copies of the Software during
+the applicable release's authorized use period.
+
+The Software is made available to the public without a purchase price,
+subscription fee, or individual license key. Permitted uses include personal,
+educational, research, and internal noncommercial testing and evaluation.
+Organizations may permit personnel to conduct such evaluations on their
+behalf. Payment of ordinary wages to those personnel does not, by itself,
+make internal evaluation commercial use.
+
+This grant does not authorize selling access to the Software, offering its
+calculations as a paid service, incorporating the Software or its outputs into
+commercial products or deliverables, or otherwise exploiting the Software
+commercially without Licensor's prior written permission.
+
+3. OFFICIAL DISTRIBUTION AND COPIES
+
+Licensor may distribute the executable publicly through its official GitHub
+repository and GitHub Releases. Users may share links to that official
+distribution. Users may retain reasonable backup copies and organizations
+may make copies for permitted internal evaluation.
+
+Redistributing the executable outside the user's organization, mirroring it,
+repackaging it, or bundling it with other software requires Licensor's prior
+written permission. Downloading from GitHub does not confer any right to
+redistribute the Software commercially.
+
+4. OWNERSHIP AND RESTRICTIONS
+
+The Software is licensed, not sold. Licensor and other applicable rights
+holders retain all intellectual property rights in the Software and its
+original components. All rights not expressly granted are reserved.
+
+Except as expressly permitted by this Agreement or applicable law, users
+may not modify, translate, decompile, disassemble, reverse-engineer, or
+create derivative works from the Software; remove copyright or license
+notices; sublicense or sell it; or defeat or bypass expiration, authorization,
+or integrity controls. Nothing here overrides non-waivable rights under
+applicable law.
+
+Third-party components, if included, remain subject to their own applicable
+license terms.
+
+5. USE PERIOD AND EXPIRATION
+
+Each official release has an authorized use period ending on the expiration
+date identified for that release in the executable or its accompanying
+official release information. Users should verify that date before use.
+
+The license to use that release ends when its authorized use period expires.
+The executable may enforce expiration through local time checks or online
+authorization services. The availability or necessity of an internet
+connection depends on the release; offline operation is not guaranteed by
+this Agreement. Users must not bypass expiration or date-verification
+mechanisms.
+
+Licensor may issue a later release with different terms or an updated
+expiration date but has no obligation to do so. A later release does not
+retroactively change the terms of an earlier one except as lawfully agreed.
+
+6. BALLISTIC CALCULATIONS AND SAFETY
+
+Ballistic Pathfinder is a computational aid, not a certified fire-control
+system. All trajectory calculations are estimates based on input data,
+mathematical models, numerical methods, and assumptions. Outputs may be
+wrong or unsuitable for actual conditions.
+
+Users are solely responsible for independently checking inputs and outputs
+before relying on them; following applicable laws, range rules, and firearm
+safety procedures; and exercising independent judgment. The Software is
+not a substitute for safe equipment practices or independent verification.
+Errors or reliance on predicted results may lead to equipment or property
+damage, serious personal injury, or death.
+
+7. UPDATES, SUPPORT, AND USER DATA
+
+Licensor may change or discontinue distribution and has no obligation to
+provide updates, support, error corrections, or future versions. User-created
+input and output files remain the property of their respective owners.
+
+If a user voluntarily sends feedback, the user grants Licensor a
+nonexclusive, worldwide, perpetual, royalty-free right to use that feedback
+to improve or develop the Software, without transferring ownership of the
+user's original material.
+
+8. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+AVAILABLE, ERROR-FREE, RELIABLE, ACCURATE, OR FIT FOR ANY PARTICULAR BALLISTIC
+APPLICATION OR THAT ANY CALCULATED RESULT WILL MATCH REAL-WORLD CONDITIONS.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR AND ITS PERSONNEL
+SHALL NOT BE LIABLE FOR DAMAGES OR LOSSES ARISING FROM USE OF, INABILITY TO
+USE, OR RELIANCE ON THE SOFTWARE, INCLUDING DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, LOSS OF DATA, FINANCIAL OR
+PROPERTY LOSS, PERSONAL INJURY, OR DEATH, REGARDLESS OF THE CLAIM'S LEGAL
+THEORY. NOTHING IN THIS AGREEMENT EXCLUDES OR RESTRICTS LIABILITY THAT
+CANNOT LAWFULLY BE EXCLUDED OR RESTRICTED.
+
+10. ACCEPTANCE AND TERMINATION
+
+Please review this Agreement before using the Software. If you do not agree
+to its terms, do not use the Software. If a release presents an acceptance
+dialog, the user must affirmatively accept before using functions gated by
+that dialog.
+
+This license terminates on expiration of the applicable release's
+authorized use period or upon a material breach of its terms, subject to
+applicable law. Upon termination, the user must cease using that release.
+Sections relating to ownership, disclaimers, limitations of liability,
+and other provisions that by their nature should survive will survive
+termination.
+
+11. GOVERNING LAW AND GENERAL TERMS
+
+This Agreement is governed by the laws of the State of Florida, United
+States, subject to mandatory consumer protection rules and other applicable
+non-waivable rights. If a provision is unenforceable, the remaining
+provisions remain effective to the extent permitted by law.
+
+Only Licensor may issue or authorize amendments to these terms. Terms for
+future releases apply as identified with those releases and are not imposed
+retroactively except as permitted by law.
+
+12. CONTACT
+
+Producer and Licensor: Scientific Computing Inc.
+Contact: John Harry Merts
+Email: mertsjohn@gmail.com
+
+END OF LICENSE AGREEMENT
